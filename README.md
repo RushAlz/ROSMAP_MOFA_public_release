@@ -1,0 +1,3 @@
+# **Integrative multi-omics factorial analysis reveals potential new biomarkers and molecular subtypes in Alzheimer’s Disease**
+
+#### To identify potential genes of interest and molecular subtypes in Alzheimer’s disease (AD), we employed Multi‐Omics Factor Analysis (MOFA), an unsupervised method for uncovering the principal sources of variation in multimodal data. We integrated H3K9ac histone acetylation, mRNA expression, proteomics, metabolomics, and proportions of cell-type-specific subpopulations, all derived from a partially overlapping set of brain samples from 1,358 aged individuals. This analysis yielded a set of 50 factors capturing both biological and technical sources of variability, which revealed novel molecular subtypes and genes in AD.
