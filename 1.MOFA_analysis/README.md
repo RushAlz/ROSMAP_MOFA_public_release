@@ -10,5 +10,5 @@
 - `7.Var_explained_by_factor.R` – the variance explained by views for AD related factors
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c6064e52-5f6a-445c-bc7b-2a2971e2441d" alt="Image" width="800"/>
+  <img src="1.MOFA_analysis.png" alt="Image" width="800"/>
 </p>
