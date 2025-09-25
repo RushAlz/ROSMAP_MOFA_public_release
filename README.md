@@ -17,6 +17,9 @@ This repository accompanies the preprint:
 <p align="center">
   <img src="MOFA_Graphical_Abstract.png" alt="Image" width="800"/>
 </p>
+<p align="right">
+*Figure created in  https://BioRender.com*
+</p>
 
 Key findings include:
 
