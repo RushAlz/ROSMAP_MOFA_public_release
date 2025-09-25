@@ -1,3 +1,44 @@
-# Integration of aged brain multi-omics reveals cross-system mechanisms underlying Alzheimer’s disease heterogeneity
+# ROSMAP_MOFA_public_release
 
-<p align="justify"> The molecular correlates of Alzheimer’s disease are increasingly being defined by omic measurements. However, findings from distinct types of omics, or from distinct cohorts, are often difficult to integrate into coherent mechanisms. Collecting multiple types of omics data from the same individuals allows a comprehensive view of disease-related molecular mechanisms while addressing conflicting findings derived from single omics. Such same-sample multi-omics can reveal, for instance, when an inflammatory process observed in acetylation is linked to an inflammatory process in RNA-Seq and a mitochondrial process in protein measurements. In contrast, with a single-omic or a multi-cohort approach, it would be unclear whether such findings were contradictory or simply missing due to unknown underlying mechanims. Therefore, here we utilize a same-sample multi-omic framework to identify coherent processes in Alzheimer’s data. We combine epigenomic, transcriptomic, proteomic, metabolomic, and cell-type specific population data from the Religious Orders Study (ROS) and Rush Memory and Aging Project (MAP) cohorts, from 1,358 aged human brain samples. Using purely data-driven methods, we demonstrate the existence of sprawling cross-omic cross-system biological factors that also relate to Alzheimer’s phenotypes. The strongest factor in AD was related to increased immune response at the epigenetic level, decreased expression of heat shock genes at the transcriptome levels and dysregulation of energetic metabolism and cytoskeletal dynamics at the proteomics. Additional unique immune-related factors also correlated with AD phenotypes included components across five omics related to reactive-like glial subpopulations and capturing positive contributions from surveillance microglial cells. These factors were both negatively associated with AD pathology, suggesting potential protective immune mechanisms. Unsupervised clustering of participants revealed eleven molecular subtypes of the aging brain, including three clusters strongly associated with AD but displaying distinct molecular signatures and phenotypic characteristics. Our findings provide a comprehensive map of molecular mechanisms underlying AD heterogeneity, highlighting the complex role of neuroinflammatory processes, and yielding potential novel biomarkers and therapeutic targets for precision medicine approaches to AD treatment. </p>
+Public release of code and analyses related to **Multi-omics Factor Analysis (MOFA)** using data from the **Religious Orders Study (ROS)** and **Rush Memory and Aging Project (MAP)** cohorts.  
+
+This repository accompanies the preprint:
+
+## Citation
+
+> Scheidemantel LP, de Paiva Lopes K, Gaiteri C, Menon V, De Jager PL, Schneider JA, Buchman AS, Wang Y, Tasaki S, Raittz RT, Bennett DA, Vialle RA.\
+ **Integration of aged brain multi-omics reveals cross-system mechanisms underlying Alzheimer’s disease heterogeneity.**\
+ bioRxiv (2025). doi: [10.1101/2025.09.23.678110](https://www.biorxiv.org/content/10.1101/2025.09.23.678110v1)
+
+---
+
+## Overview
+
+<p align="center">
+  <img src="MOFA_Graphical_Abstract.png" alt="Image" width="800"/>
+</p>
+
+Key findings include:
+
+- Identification of **cross-omic, cross-system biological factors** linked to AD phenotypes.
+- Discovery of **immune-related factors** with both detrimental and protective associations.
+- **Unsupervised clustering** of participants into **11 molecular subtypes**, including three AD-associated clusters with distinct molecular and phenotypic signatures.
+- Insights into **neuroinflammatory processes**, **energetic metabolism**, and **cytoskeletal dynamics** as central mechanisms in AD.
+
+---
+
+## Repository Structure
+
+- **`1.MOFA_analysis/`** – Core MOFA implementation and factor extraction.  
+- **`2.GSEA_analysis/`** – Gene Set Enrichment Analysis of MOFA factors.  
+- **`3.Loadings_analysis/`** – Examination of omics loadings contributing to factors.  
+- **`4.Phenotypes_analysis/`** – Associations between MOFA factors and AD phenotypes.  
+- **`5.Clustering_analysis/`** – Unsupervised clustering of participants into molecular subtypes.  
+- **`6.Manuscript_code/`** – Misc. scripts used to generate other figures and results.  
+
+---
+
+
+---
+
+Distributed under terms of the [GNU GENERAL PUBLIC LICENSE](/LICENSE).
