@@ -18,7 +18,7 @@ This repository accompanies the preprint:
   <img src="MOFA_Graphical_Abstract.png" alt="Image" width="800"/>
 </p>
 <p align="right">
-*Figure created in  https://BioRender.com*
+Figure created in  https://BioRender.com
 </p>
 
 Key findings include:
@@ -44,4 +44,4 @@ Key findings include:
 
 ---
 
-Distributed under terms of the [GNU GENERAL PUBLIC LICENSE](/LICENSE).
+Distributed under terms of the [GNU GENERAL PUBLIC LICENSE](https://github.com/RushAlz/ROSMAP_MOFA_public_release/blob/main/LICENCE).
