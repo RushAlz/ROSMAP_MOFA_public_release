@@ -2,13 +2,15 @@
 
 Public release of code and analyses related to **Multi-omics Factor Analysis (MOFA)** using data from the **Religious Orders Study (ROS)** and **Rush Memory and Aging Project (MAP)** cohorts.  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18842084.svg)](https://doi.org/10.5281/zenodo.18842084)
+
 This repository accompanies the preprint:
 
 ## Citation
 
 > Scheidemantel LP, de Paiva Lopes K, Gaiteri C, Menon V, De Jager PL, Schneider JA, Buchman AS, Wang Y, Tasaki S, Raittz RT, Bennett DA, Vialle RA.\
  **Integration of aged brain multi-omics reveals cross-system mechanisms underlying Alzheimer’s disease heterogeneity.**\
- bioRxiv (2025). doi: [10.1101/2025.09.23.678110](https://www.biorxiv.org/content/10.1101/2025.09.23.678110v1)
+ bioRxiv (2025). [![DOI:10.1101/2025.09.23.678110](http://img.shields.io/badge/DOI-10.1101/2025.09.23.678110-B31B1B.svg)](https://doi.org/10.1101/2025.09.23.678110)
 
 ---
 
