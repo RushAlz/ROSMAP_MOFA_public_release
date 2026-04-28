@@ -8,9 +8,10 @@ This repository accompanies the preprint:
 
 ## Citation
 
-> Scheidemantel LP, de Paiva Lopes K, Gaiteri C, Menon V, De Jager PL, Schneider JA, Buchman AS, Wang Y, Tasaki S, Raittz RT, Bennett DA, Vialle RA.\
- **Integration of aged brain multi-omics reveals cross-system mechanisms underlying Alzheimer’s disease heterogeneity.**\
- bioRxiv (2025). [![DOI:10.1101/2025.09.23.678110](http://img.shields.io/badge/DOI-10.1101/2025.09.23.678110-B31B1B.svg)](https://doi.org/10.1101/2025.09.23.678110)
+>  **Integration of aged brain multi-omics reveals cross-system mechanisms underlying Alzheimer’s disease heterogeneity**\
+Scheidemantel LP, de Paiva Lopes K, Gaiteri C, Menon V, De Jager PL, Schneider JA, Buchman AS, Wang Y, Tasaki S, Raittz RT, Bennett DA, Vialle RA\
+*Cell Reports* (2026)\
+[![DOI:10.1016/j.celrep.2026.117235](http://img.shields.io/badge/DOI-10.1016/j.celrep.2026.117235-B31B1B.svg)](https://doi.org/10.1016/j.celrep.2026.117235)
 
 ---
 
